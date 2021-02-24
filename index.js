@@ -2,9 +2,9 @@ export default class {
   /**
    * 
    * @param {object} options 配置选项
-   * @param {number} start 起点，单位px
-   * @param {number} end 终点，单位px
-   * @param {number} speed 速度，单位px/s
+   * @param {number} options.start 起点，单位px
+   * @param {number} options.end 终点，单位px
+   * @param {number} options.speed 速度，单位px/s
    */
   constructor(options = {}) {
     this.options = options;
