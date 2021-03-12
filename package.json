@@ -1,6 +1,6 @@
 {
   "name": "animation-frame-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "web requestAnimationFrame()动画帧的简单封装",
   "main": "index.js",
   "scripts": {
