@@ -44,7 +44,7 @@ export default class {
         }
       }
 
-      options.frame(Math.round(this.value));
+      options.frame(this.value);
 
       lastTime = timestamp;
 
